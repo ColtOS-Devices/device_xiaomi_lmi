@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_lmi.mk
+    $(LOCAL_DIR)/colt_lmi.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_lmi-user \
-    evolution_lmi-userdebug \
-    evolution_lmi-eng
+    colt_lmi-user \
+    colt_lmi-userdebug \
+    colt_lmi-eng

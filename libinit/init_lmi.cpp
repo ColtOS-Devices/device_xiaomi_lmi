@@ -14,8 +14,8 @@ static const variant_info_t lmi_info = {
     .device = "lmi",
     .marketname = "",
     .model = "POCO F2 Pro",
-    .build_description = "lmi-user 11 RKQ1.200826.002 V12.5.1.0.RJKMIXM release-keys",
-    .build_fingerprint = "POCO/lmi_global/lmi:11/RKQ1.200826.002/V12.5.1.0.RJKMIXM:user/release-keys",
+    .build_description = "redfin-user 11 RQ3A.210805.001.A1 7474174 release-keys",
+    .build_fingerprint = "google/redfin/redfin:11/RQ3A.210805.001.A1/7474174:user/release-keys",
 
     .nfc = true,
 };
